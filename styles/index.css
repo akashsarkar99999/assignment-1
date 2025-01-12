@@ -252,7 +252,7 @@ background-color: #09A15C;
 .d-card{
     width: 252px;
     height: 128px;
-    border: 1px solid black;
+    border: 1px solid rgb(9, 9, 9);
     padding: 40px;
     margin-right: 24px;
     display: flex;
